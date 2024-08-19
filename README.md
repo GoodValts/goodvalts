@@ -16,7 +16,7 @@ Testing:
   <p style="margin: auto; grid-row: 1/3;">griiiiiiiiiiiiiiiid</p>
 </div>
 
-[![codewars](https://www.codewars.com/users/GoodValts/badges/large)](https://www.codewars.com/users/GoodValts)
+![Codewars](https://github.r2v.ch/codewars?user=GoodValts&top_languages=true)
 
 <!--
 **GoodValts/GoodValts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
