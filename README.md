@@ -1,13 +1,15 @@
 <h1 align="center">Hi there, I'm Ivan Martiniujk <img src="assets/lizzard_hello.webp" alt='hello' width="45" /></h1>
-<h3 align="center">Front-end developer from <a href="https://www.google.com/maps/place/Gomel">Belarus</a></h3>
+<h2 align="center">Front-end developer from <a href="https://www.google.com/maps/place/Gomel">Belarus</a></h2>
 <div align="center">
-  <a href="mailto:martiniukgomel@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-ff5d5d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/szczuczynszczyna"><img alt="telegram" src="https://img.shields.io/badge/Telegram-24a1de?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ivan-martynjuk-3420542aa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="mailto:martiniukgomel@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/szczuczynszczyna"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ivan-martynjuk-3420542aa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">About:</h3>
+[![codewars](https://www.codewars.com/users/GoodValts/badges/small)](https://www.codewars.com/users/GoodValts)
 
+<h3 align="center">Languages and Tools:</h3>
 <div>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="scc3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -49,8 +51,6 @@
   <img alt="corel" src="https://img.shields.io/badge/CorelDRAW-000000?style=flat-square&logo=coreldraw&logoColor=white" />
   <img alt="autocad" src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autocad&logoColor=white" />
 </div>
-
-[![codewars](https://www.codewars.com/users/GoodValts/badges/small)](https://www.codewars.com/users/GoodValts)
 
 <!-- <img src="https://www.codewars.com/users/GoodValts/badges/small" align="right" /> -->
 
