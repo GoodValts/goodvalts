@@ -1,14 +1,18 @@
 <div style="text-align: center; border-bottom: 1px solid slategray">
-  <h1 style="text-align: center; border-bottom: 0px">Hi there, I'm Ivan Martiniujk 👋</h1>
+  <h1 style="align: center; border-bottom: 0px; margin-left: 40px">Hi there, I'm Ivan Martiniujk <img src="assets/lizzard_hello.webp" alt='hello' width="40"/></h1>
   <h3>Front-end developer from Belarus</h3>
 </div>
 
-Languages and tools:
-
+<h3 style="text-align: center">Languages and Tools:</h3>
 <div style="display: flex; justify-content: center">
   <div style="background: white">asd</div>
   <div style="background: red">asd</div>
   <div style="background: white">asd</div>
+</div>
+
+<h3 style="text-align: center">Contact me:</h3>
+<div style="display: flex; justify-content: center">
+  <a href="https://t.me/szczuczynszczyna">asd</a>
 </div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr">
