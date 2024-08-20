@@ -23,6 +23,8 @@ Languages and tools:
 
 ![Top Langs by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=goodvalts&theme=default)
 
+![](https://komarev.com/ghpvc/?username=GoodValts)
+
 <!--
 **GoodValts/GoodValts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
