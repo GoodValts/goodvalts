@@ -1,15 +1,9 @@
 <h1 align="center">Hi there, I'm Ivan Martiniujk <img src="assets/lizzard_hello.webp" alt='hello' width="45" /></h1>
 <h3 align="center">Front-end developer from <a href="https://www.google.com/maps/place/Gomel">Belarus</a></h3>
 <div align="center">
-  <a href="mailto:martiniukgomel@gmail.com">
-    <img alt="gmail" src="https://img.shields.io/badge/Gmail-ff5d5d?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/szczuczynszczyna">
-    <img alt="telegram" src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ivan-martynjuk-3420542aa">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>  
+  <a href="mailto:martiniukgomel@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-ff5d5d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/szczuczynszczyna"><img alt="telegram" src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ivan-martynjuk-3420542aa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
