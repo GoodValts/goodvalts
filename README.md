@@ -1,5 +1,5 @@
-<div style="text-align: center; border-bottom: 1px solid slategray">
-  <h1 style="align: center; border-bottom: 0px; margin-left: 40px">Hi there, I'm Ivan Martiniujk <img src="assets/lizzard_hello.webp" alt='hello' width="40"/></h1>
+<div style="align: center; border-bottom: 1px solid slategray">
+  <h1 style="margin-left: 40px">Hi there, I'm Ivan Martiniujk <img src="assets/lizzard_hello.webp" alt='hello' width="40"/></h1>
   <h3>Front-end developer from Belarus</h3>
 </div>
 
