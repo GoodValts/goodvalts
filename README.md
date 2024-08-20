@@ -2,13 +2,26 @@
 <h3 align="center">Front-end developer from <a href="https://www.google.com/maps/place/Gomel">Belarus</a></h3>
 <div align="center">
   <a href="mailto:martiniukgomel@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-ff5d5d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/szczuczynszczyna"><img alt="telegram" src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ivan-martynjuk-3420542aa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://t.me/szczuczynszczyna"><img alt="telegram" src="https://img.shields.io/badge/Telegram-24a1de?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ivan-martynjuk-3420542aa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
 <div>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logoSize=amd&logo=html5&logoColor=white" />
+  <img alt="scc3" src="https://img.shields.io/badge/CSS3-2965f1?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="sass" src="https://img.shields.io/badge/SASS-cc6699?style=flat-square&logo=sass&logoColor=white" />
+</div>
+<div>
+  <img alt="python" src="https://img.shields.io/badge/PYTHON3-4584b6?style=flat-square&logoSize=amd&logo=python&logoColor=white" />
+  <img alt="sklearn" src="https://img.shields.io/badge/SKLearn-29abe2?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img alt="scc3" src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
+</div>
+<div>
+  <img alt="ps" src="https://img.shields.io/badge/PS-001e36?style=flat-square&logoSize=amd&logo=adobephotoshop&logoColor=white" />
+  <img alt="sklearn" src="https://img.shields.io/badge/SKLearn-29abe2?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img alt="scc3" src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
+</div>
 
 <h3 style="text-align: center">Contact me:</h3>
 <div style="display: flex; justify-content: center">
@@ -21,7 +34,7 @@
 
 [![codewars](https://www.codewars.com/users/GoodValts/badges/small)](https://www.codewars.com/users/GoodValts)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodValts&hide_title=true&hide=stars,issues&show_icons=true&rank_icon=percentile)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodValts&custom_title=Profile%20Stats&hide=stars,issues&show_icons=true&rank_icon=percentile)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?method=commits&username=GoodValts&layout=compact)
 
