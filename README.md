@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ivan Martiniujk <img src="assets/lizzard_hello.webp" alt='hello' width="40"/></h1>
+<h1 align="center">Hi there, I'm Ivan Martiniujk <img src="assets/lizzard_hello.webp" alt='hello' width="45"/></h1>
 <h3 align="center">Front-end developer from Belarus</h3>
 
 <h3 style="text-align: center">Languages and Tools:</h3>
