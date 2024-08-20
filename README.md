@@ -2,20 +2,19 @@
 <h3 align="center">Front-end developer from <a href="https://www.google.com/maps/place/Gomel">Belarus</a></h3>
 <div align="center">
   <a href="https://t.me/szczuczynszczyna">
-    <img alt="telegram" src="https://img.shields.io/badge/Gmail-6495ED?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="telegram" src="https://img.shields.io/badge/Gmail-ff5d5d?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/szczuczynszczyna">
-    <img alt="telegram" src="https://img.shields.io/badge/Telegram-DarkGreen?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img alt="telegram" src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  
-  
+  <a href="https://t.me/szczuczynszczyna">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>  
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
 <div>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5&logo=html5&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-</div>
 
 <h3 style="text-align: center">Contact me:</h3>
 <div style="display: flex; justify-content: center">
