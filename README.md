@@ -1,15 +1,19 @@
+..TBD in nearest future
+
 <h1 align="center">Hi there, I'm Ivan Martiniujk <img src="assets/lizzard_hello.webp" alt='hello' width="45" /></h1>
-<h3 align="center">Front-end developer from <a href="https://www.google.com/maps/place/Gomel">Belarus</a></h3>
+<h3 align="center">Front-end developer from <a href="https://www.google.com/maps/place/Gomel" target="_blank" href="" rel="noreferrer">Belarus</a></h3>
 <div align="center">
-  <a href="mailto:martiniukgomel@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/szczuczynszczyna"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ivan-martynjuk-3420542aa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="mailto:martiniukgomel@gmail.com" target="_blank" href="" rel="noreferrer"><img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/szczuczynszczyna" target="_blank" href="" rel="noreferrer"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ivan-martynjuk-3420542aa" target="_blank" href="" rel="noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 </div>
 <hr>
 
 <h3 align="center">About:</h3>
 
-[![codewars](https://www.codewars.com/users/GoodValts/badges/small)](https://www.codewars.com/users/GoodValts)
+[![codewars](https://www.codewars.com/users/GoodValts/badges/large)](https://www.codewars.com/users/GoodValts)
+
+<hr>
 
 <h3 align="center">Languages and Tools:</h3>
 <div>
@@ -26,9 +30,9 @@
   <img alt="nextJS" src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="nodeJS" src="https://img.shields.io/badge/NodeJS-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="graphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </div>
 <div>
-  <img alt="vscode" src="https://img.shields.io/badge/VSCode-F05032?style=flat-square&logo=vscode&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
@@ -37,7 +41,8 @@
   <img alt="vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img alt="prettier" src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
-  <img alt="jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="jest" src="https://img.shields.io/badge/Jest%20Tests-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="testingLib" src="https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" /> 
 </div>
 <div>
   <img alt="python" src="https://img.shields.io/badge/PYTHON3-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -54,26 +59,46 @@
   <img alt="autocad" src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autocad&logoColor=white" />
 </div>
 
+<h3 align="center">Projects:</h3>
+<details>
+  <summary>Learn more</summary>
+  <!-- add table -->
+</details>
+
+<table>
+    <tr>
+      <td><img alt="match3-icon" src="" /></td>
+      <td>
+        <h3 align="center">Match3</h3>
+        <p align="center">Match-three game for Betcity</p>
+        <p>About: commercial project, collaborated with [kotsiaryna](https://github.com/kotsiaryna). 2D online game, having 4 levels, tutorial, team choice, personal and general score and etc. Adaptive cross-browser layout, integration with RestAPI, animations, optimization for low-powered devices.</p>
+        <p>Stack: React, Redux, TypeScript, Vite, SCSS, ESLint, Prettier, Husky, RestAPI.</p>
+        <p>Contribution: project settings, field generation, elements selection / swipe, combination checking, elements movement and animations, counting score, assets and code optimization.</p>
+        <p>Deploy: <a href="https://match3-betcity.netlify.app/" target="_blank" rel="noreferrer">link</a></p>
+        <p>Repository: private (NDA)</p>
+      </td>
+    </tr>
+    <tr>
+      <td><img alt="graphQL-icon" src="" /></td>
+      <td>
+        <h3 align="center">Phoenix GraphQL</h3>
+        <p align="center">IDE for GraphQL requests</p>
+        <p>About: project, collaborated with <a href="https://github.com/AnastasiyaAlisenok" target="_blank" rel="noreferrer"><i><b>AnastasiyaAlisenok</b></i></a> and <a href="https://github.com/whiterabbit8" target="_blank" rel="noreferrer"><i><b>whiterabbit8</b></i></a>. IDE for GraphQL requests, for APIs without CORS-policy. Adaptive to 320px semantic layout, Firebase registration, React forms, yup validation, API's errors handling, request-code prettifying, En and Ru languages, test coverage over 80%.</p>
+        <p>Stack: React, Redux, TypeScript, Vite, SCSS, ESLint, Prettier, Husky, RestAPI</p>
+        <p>Contribution: team coordination, project settings, styles and adaptive design, forms validation, multilingualism</p>
+        <p>Deploy: <a href="https://goodvalts.github.io/graphiql-app/#/" target="_blank" rel="noreferrer">link</a></p>
+        <p>Repository: <a href="https://github.com/GoodValts/graphiql-app/tree/develop" target="_blank" rel="noreferrer">link</a></p>
+        <p></p>
+      </td>
+    </tr>
+  </table>
+
 <h3 align="center">Stats:</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodValts&custom_title=Profile%20Stats&hide=stars,issues&show_icons=true&rank_icon=percentile)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?method=commits&username=GoodValts&layout=compact)
+
 ![Top Langs by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=goodvalts&theme=default)
 
 ![Profile views](https://komarev.com/ghpvc/?username=GoodValts)
-
-<!--
-**GoodValts/GoodValts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning NodeJS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about loops
-- 📫 How to reach me: click here
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
