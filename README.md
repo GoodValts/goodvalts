@@ -8,9 +8,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GoodValts&custom_title=Profile%20Stats&hide=stars,issues&show_icons=true&rank_icon=percentile" align="right" alt="activity-stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?method=commits&username=GoodValts&layout=compact" align="right" alt="languages-stats" />
-
 <div>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="scc3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
