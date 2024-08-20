@@ -1,12 +1,14 @@
 <h1 align="center">Hi there, I'm Ivan Martiniujk <img src="assets/lizzard_hello.webp" alt='hello' width="45" /></h1>
-<h2 align="center">Front-end developer from <a href="https://www.google.com/maps/place/Gomel">Belarus</a></h2>
+<h3 align="center">Front-end developer from <a href="https://www.google.com/maps/place/Gomel">Belarus</a></h3>
 <div align="center">
   <a href="mailto:martiniukgomel@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/szczuczynszczyna"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ivan-martynjuk-3420542aa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 </div>
+<hr>
 
 <h3 align="center">About:</h3>
+
 [![codewars](https://www.codewars.com/users/GoodValts/badges/small)](https://www.codewars.com/users/GoodValts)
 
 <h3 align="center">Languages and Tools:</h3>
@@ -52,12 +54,11 @@
   <img alt="autocad" src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autocad&logoColor=white" />
 </div>
 
-<!-- <img src="https://www.codewars.com/users/GoodValts/badges/small" align="right" /> -->
+<h3 align="center">Stats:</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodValts&custom_title=Profile%20Stats&hide=stars,issues&show_icons=true&rank_icon=percentile)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?method=commits&username=GoodValts&layout=compact)
-
 ![Top Langs by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=goodvalts&theme=default)
 
 ![Profile views](https://komarev.com/ghpvc/?username=GoodValts)
