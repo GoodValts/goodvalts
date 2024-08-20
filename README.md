@@ -7,6 +7,10 @@
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=GoodValts&custom_title=Profile%20Stats&hide=stars,issues&show_icons=true&rank_icon=percentile" align="right" alt="activity-stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?method=commits&username=GoodValts&layout=compact" align="right" alt="languages-stats" />
+
 <div>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="scc3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -23,6 +27,7 @@
   <img alt="nodeJS" src="https://img.shields.io/badge/NodeJS-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
 </div>
 <div>
+  <img alt="vscode" src="https://img.shields.io/badge/VSCode-F05032?style=flat-square&logo=vscode&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
@@ -50,7 +55,7 @@
 
 [![codewars](https://www.codewars.com/users/GoodValts/badges/small)](https://www.codewars.com/users/GoodValts)
 
-<img src="https://www.codewars.com/users/GoodValts/badges/small" align="right" />
+<!-- <img src="https://www.codewars.com/users/GoodValts/badges/small" align="right" /> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodValts&custom_title=Profile%20Stats&hide=stars,issues&show_icons=true&rank_icon=percentile)
 
