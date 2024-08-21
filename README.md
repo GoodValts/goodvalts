@@ -122,8 +122,8 @@
 
 <img alt="profile-stats" src="https://github-readme-stats.vercel.app/api?username=GoodValts&custom_title=Profile%20Stats&hide=stars,issues&show_icons=true&rank_icon=percentile" />
 
-<img alt="langs-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?method=commits&username=GoodValts&layout=compact" />
-
 <img align="right" alt="langs-by-commit-stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=goodvalts&theme=default" />
+
+<img alt="langs-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?method=commits&username=GoodValts&layout=compact" />
 
 <img alt="view-counter" src="https://komarev.com/ghpvc/?username=GoodValts" />
