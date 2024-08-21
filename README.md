@@ -126,4 +126,5 @@
 
 <h3 align="center">Certificates:</h3>
 
-<img width="33%" alt="js-react" src="assets/react.png" /> <img width="33%" alt="js-fe" src="assets/js-fe.png" /> <img width="33%" alt="js-pre" src="assets/pre-school.png" />
+<img width="33%" alt="js-pre" src="assets/react.png" /> <img width="33%" alt="js-fe" src="assets/js-fe.png" /> <img width="33%" alt="js-pre" src="assets/pre-school.png" />
+<img width="33%" alt="py-bio" src="assets/py.png" />
