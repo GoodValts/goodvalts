@@ -120,10 +120,14 @@
 
 <h3 align="center">Stats:</h3>
 
-<img alt="profile-stats" src="https://github-readme-stats.vercel.app/api?username=GoodValts&custom_title=Profile%20Stats&hide=stars,issues&show_icons=true&rank_icon=percentile" /> <img alt="langs-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?method=commits&username=GoodValts&layout=compact" /> <img alt="langs-by-commit-stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=goodvalts&theme=default" />
+<img alt="profile-stats" src="https://github-readme-stats.vercel.app/api?username=GoodValts&custom_title=Profile%20Stats&hide=stars,issues&show_icons=true&rank_icon=percentile" />
+<img alt="langs-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?method=commits&username=GoodValts&layout=compact" />
+<img alt="langs-by-commit-stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=goodvalts&theme=default" />
 
 <img alt="view-counter" src="https://komarev.com/ghpvc/?username=GoodValts" />
 
 <h3 align="center">Certificates:</h3>
 
-<img width="30%" alt="js-react" src="assets/react.png" /> <img width="30%" alt="js-fe" src="assets/js-fe.png" /> <img width="30%" alt="js-pre" src="assets/pre-school.png" />
+<img width="33%" alt="js-react" src="assets/react.png" />
+<img width="33%" alt="js-fe" src="assets/js-fe.png" />
+<img width="33%" alt="js-pre" src="assets/pre-school.png" />
