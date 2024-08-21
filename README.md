@@ -64,11 +64,11 @@
   <summary align="center">Learn more</summary>
   <table>
     <tr>
-      <td><img alt="match3-icon" src="" /></td>
+      <td><img alt="match3-screen" src="assets/match3.png" /></td>
       <td>
         <h3 align="center">Match3</h3>
         <p align="center"><b>Match-three game for Betcity</b></p>
-        <p>About: commercial project, collaborated with <a href="https://github.com/kotsiaryna" target="_blank" rel="noreferrer"><i><b>kotsiaryna</b></i></a>. 2D online game, having 4 levels, tutorial, team choice, personal and general score and etc. Adaptive cross-browser layout, integration with RestAPI, animations, optimization for low-powered devices.</p>
+        <p>Commercial project, collaborated with <a href="https://github.com/kotsiaryna" target="_blank" rel="noreferrer"><i><b>kotsiaryna</b></i></a>. 2D online game, having 4 levels, tutorial, team choice, personal and general score and etc. Adaptive cross-browser layout, integration with RestAPI, animations, optimization for low-powered devices.</p>
         <p>Stack: React, Redux, TypeScript, Vite, SCSS, ESLint, Prettier, Husky, RestAPI.</p>
         <p>Contribution: project settings, field generation, elements selection / swipe, combination checking, elements movement and animations, counting score, assets and code optimization.</p>
         <p>Deploy: <a href="https://match3-betcity.netlify.app/" target="_blank" rel="noreferrer">link</a>.</p>
@@ -76,11 +76,11 @@
       </td>
     </tr>
     <tr>
-      <td><img alt="graphQL-icon" src="" /></td>
+      <td><img alt="graphQL-screen" src="assets/graphQL.png" /></td>
       <td>
         <h3 align="center">Phoenix GraphQL</h3>
         <p align="center"><b>IDE for GraphQL requests</b></p>
-        <p>About: project, collaborated with <a href="https://github.com/AnastasiyaAlisenok" target="_blank" rel="noreferrer"><i><b>AnastasiyaAlisenok</b></i></a> and <a href="https://github.com/whiterabbit8" target="_blank" rel="noreferrer"><i><b>whiterabbit8</b></i></a>. IDE for GraphQL requests, for APIs without CORS-policy. Adaptive to 320px semantic layout, Firebase registration, React forms, yup validation, API's errors handling, request-code prettifying, En and Ru languages, test coverage over 80%.</p>
+        <p>Project, collaborated with <a href="https://github.com/AnastasiyaAlisenok" target="_blank" rel="noreferrer"><i><b>AnastasiyaAlisenok</b></i></a> and <a href="https://github.com/whiterabbit8" target="_blank" rel="noreferrer"><i><b>whiterabbit8</b></i></a>. IDE for GraphQL requests, for APIs without CORS-policy. Adaptive to 320px semantic layout, Firebase registration, React forms, yup validation, API's errors handling, request-code prettifying, En and Ru languages, test coverage over 80%.</p>
         <p>Stack: React, Redux, TypeScript, Vite, SCSS, ESLint, Prettier, Husky, RestAPI.</p>
         <p>Contribution: team coordination, project settings, styles and adaptive design, forms validation, multilingualism.</p>
         <p>Deploy: <a href="https://goodvalts.github.io/graphiql-app/#/" target="_blank" rel="noreferrer">link</a>.</p>
@@ -88,11 +88,11 @@
       </td>
     </tr>
     <tr>
-      <td><img alt="motodream-icon" src="" /></td>
+      <td><img alt="motodream-screen" src="assets/motodream.png" /></td>
       <td>
         <h3 align="center">MotoDream</h3>
         <p align="center"><b>Online shop integrated with CommerceTools API</b></p>
-        <p>About: hardcore project using simple technologies, collaborated with <a href="https://github.com/kotsiaryna" target="_blank" rel="noreferrer"><i><b>kotsiaryna</b></i></a> and <a href="https://github.com/Greys73" target="_blank" rel="noreferrer"><i><b>Greys73</b></i></a>.  E-commerce SPA, online shope based on CommerceTools API data. Adaptive to 390px semantic layout, browser routing, autorization/registration/profile pages, catalog, cart, supporting promocodes and dynamic price calculation for different countries — all, that you need for e-shopping. Has unit tests coverage.</p>
+        <p>Hardcore project using simple technologies, collaborated with <a href="https://github.com/kotsiaryna" target="_blank" rel="noreferrer"><i><b>kotsiaryna</b></i></a> and <a href="https://github.com/Greys73" target="_blank" rel="noreferrer"><i><b>Greys73</b></i></a>.  E-commerce SPA, online shope based on CommerceTools API data. Adaptive to 390px semantic layout, browser routing, autorization/registration/profile pages, catalog, cart, supporting promocodes and dynamic price calculation for different countries — all, that you need for e-shopping. Has unit tests coverage.</p>
         <p>Stack: TypeScript, Webpack, SCSS, ESLint, Prettier, Husky, Jest Tests.</p>
         <p>Contribution: team coordination, project settings and functionality defining, styles and adaptive design.</p>
         <p>Deploy: <a href="https://motodream.netlify.app/" target="_blank" rel="noreferrer">link</a> <i>(using only for a demonstrator — back is unavailable, ends trial period)</i>.</p>
@@ -100,11 +100,11 @@
       </td>
     </tr>
     <tr>
-      <td><img alt="motodream-icon" src="" /></td>
+      <td><img alt="minesweeper-screen" src="assets/minesweeper.png" /></td>
       <td>
         <h3 align="center">Minesweeper</h3>
         <p align="center"><b>My own version of legendary game</b></p>
-        <p>About: A bright new version, including custom field, stats, light/dark theme, local saves, sounds and mines generation after first opened cell.</p>
+        <p>A bright new version, including custom field, stats, light/dark theme, local saves, sounds and mines generation after first opened cell.</p>
         <p>Stack: JavaScript, SCSS, ESLint.</p>
         <p>Deploy: <a href="https://rolling-scopes-school.github.io/goodvalts-JSFE2023Q1/minesweeper/" target="_blank" rel="noreferrer">link</a>.</p>
         <p>Repository: private <i>(school repository, not available for cheating, but you can use your ingenuity)</i>.</p>
