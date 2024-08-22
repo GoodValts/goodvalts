@@ -132,7 +132,19 @@
 
 <hr>
 
-<h3 align="center">Certificates:</h3>
+<h3 align="center">Courses:</h3>
 
-<img width="33%" alt="js-pre" src="assets/react.png" /> <img width="33%" alt="js-fe" src="assets/js-fe.png" /> <img width="33%" alt="js-pre" src="assets/pre-school.png" />
-<img width="33%" alt="py-bio" src="assets/py.png" />
+<h4>JavaScript:</h4>
+
+- React 2023Q4
+
+- JS Frontend 2023Q1
+
+- JS pre-school 2022Q4
+
+<a href="https://app.rs.school/certificate/9s7trg01" target="_blank" rel="noreferrer"><img width="33%" alt="react" src="assets/react.png" />
+<a href="https://app.rs.school/certificate/b4d05mfa" target="_blank" rel="noreferrer"><img width="33%" alt="js-fe" src="assets/js-fe.png" />
+<a href="https://app.rs.school/certificate/fasl8zrn" target="_blank" rel="noreferrer"><img width="33%" alt="js-pre" src="assets/pre-school.png" />
+
+<h4>Python:</h4>
+<a href="https://stepik.org/cert/2384963?lang=en" target="_blank" rel="noreferrer"><img width="33%" alt="py" src="assets/py.png" /></a>
