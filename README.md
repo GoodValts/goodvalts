@@ -15,17 +15,13 @@
 
 👩‍💻 1+ year in frontend
 
-🌱 Currently learning NodeJS and
-
 🤝 Team player and team leader
+
+🌱 Currently learning NodeJS
 
 🌎 Speak Russian (native), English (B2)
 
-🔭 I’m currently working on a my final year project!
-🌱 I’m currently learning Fullstack and Machine Learning
-👯 I’m looking to collaborate with other content creators
-
-⚡ Fun fact: rescued the rescuers on winter Elbrus when they decided to rescue us 😄
+⚡ Fun fact: rescued the rescuers on winter Elbrus 😄
 
 <h3 align="center">Languages and Tools:</h3>
 <div>
