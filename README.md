@@ -11,7 +11,21 @@
 
 <h3 align="center">About:</h3>
 
-[![codewars](https://www.codewars.com/users/GoodValts/badges/small)](https://www.codewars.com/users/GoodValts)
+<img align="right" src="https://www.codewars.com/users/GoodValts/badges/small" alt="codewars-stats" >
+
+👩‍💻 1+ year in frontend
+
+🌱 Currently learning NodeJS and
+
+🤝 Team player and team leader
+
+🌎 Speak Russian (native), English (B2)
+
+🔭 I’m currently working on a my final year project!
+🌱 I’m currently learning Fullstack and Machine Learning
+👯 I’m looking to collaborate with other content creators
+
+⚡ Fun fact: rescued the rescuers on winter Elbrus when they decided to rescue us 😄
 
 <h3 align="center">Languages and Tools:</h3>
 <div>
