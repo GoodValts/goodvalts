@@ -123,7 +123,7 @@
       <p>A bright new version, including custom field, stats, light/dark theme, local saves, sounds and mines generation after first opened cell.</p>
       <p>Stack: JavaScript, SCSS, ESLint.</p>
       <p>Deploy: <a href="https://rolling-scopes-school.github.io/goodvalts-JSFE2023Q1/minesweeper/" target="_blank" rel="noreferrer">link</a>.</p>
-      <p>Repository: private <i>(school repository, not available for cheating, but you can use your ingenuity)</i>.</p>
+      <p>Repository: private <i>(school repository)</i>.</p>
     </td>
   </tr>
 </table>
