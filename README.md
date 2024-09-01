@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ivan Martynujk <img src="assets/lizzard_hello.webp" alt='hello' width="45" /></h1>
-<h3 align="center">Front-end developer from <a href="https://www.google.com/maps/place/Gomel" target="_blank" href="" rel="noreferrer">Belarus</a></h3>
+<h3 align="center">Frontend developer from <a href="https://www.google.com/maps/place/Gomel" target="_blank" href="" rel="noreferrer">Belarus</a></h3>
 <div align="center">
   <a href="mailto:martiniukgomel@gmail.com" target="_blank" href="" rel="noreferrer"><img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/szczuczynszczyna" target="_blank" href="" rel="noreferrer"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -11,15 +11,15 @@
 
 <img align="right" src="https://www.codewars.com/users/GoodValts/badges/small" alt="codewars-stats" >
 
-👩‍💻 1+ year in frontend
+👨‍🔬 1+ year in frontend
 
 🤝 Team player and team leader
 
-🌱 Currently learning NodeJS
+🌱 Currently learning Node.js
 
-🌎 Speak Russian (native), English (B2)
+🌎 Speak English, Russian, Belarusian
 
-⚡ Fun fact: rescued the rescuers on winter Elbrus 😄
+🙃 Fun fact: rescued the rescuers on winter Elbrus when they decided to rescue me
 
 <h3 align="center">Languages and Tools:</h3>
 <div>
