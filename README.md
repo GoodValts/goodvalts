@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Ivan Martynujk <img src="assets/lizzard_hello.webp" alt='hello' width="45" /></h1>
 <h3 align="center">Frontend developer from <a href="https://www.google.com/maps/place/Gomel" target="_blank" href="" rel="noreferrer">Belarus</a></h3>
 <div align="center">
-  <a href="mailto:martiniukgomel@gmail.com" target="_blank" href="" rel="noreferrer"><img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/szczuczynszczyna" target="_blank" href="" rel="noreferrer"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/goodvalts/" target="_blank" href="" rel="noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="mailto:martiniukgomel@gmail.com" target="_blank" rel="noreferrer"><img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/szczuczynszczyna" target="_blank" rel="noreferrer"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/goodvalts/" target="_blank" rel="noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 </div>
 <hr>
 
