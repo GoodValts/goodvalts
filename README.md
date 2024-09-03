@@ -111,7 +111,7 @@
       <p>Role: TeamLead.</p>
       <p>Stack: TypeScript, Webpack, SCSS, ESLint, Prettier, Husky, Jest Tests.</p>
       <p>Contribution: team coordination, commercetools project settings and functionality defining, styles and adaptive design.</p>
-      <p>Deploy: <a href="https://motodream-shop.netlify.app/" target="_blank" rel="noreferrer">link</a> <i>(using only for a demonstrator — back is unavailable, ends trial period)</i>.</p>
+      <p>Deploy: <a href="https://motodream-shop.netlify.app/" target="_blank" rel="noreferrer">link</a> <i>(commercetools data is unavailable - ends trial period)</i>.</p>
       <p>Repository: <a href="https://github.com/GoodValts/eCommerce-Application" target="_blank" rel="noreferrer">link</a>.</p>
     </td>
   </tr>
