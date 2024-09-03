@@ -110,8 +110,8 @@
       <p>Project on vanilla TS, collaborated with <a href="https://github.com/kotsiaryna" target="_blank" rel="noreferrer"><i><b>kotsiaryna</b></i></a> and <a href="https://github.com/Greys73" target="_blank" rel="noreferrer"><i><b>Greys73</b></i></a>.<br>E-commerce SPA, online shope based on CommerceTools API data. Adaptive to 390px semantic layout, browser routing, autorization/registration/profile pages, catalog, cart, supporting promocodes and dynamic price calculation for different countries — all, that you need for e-shopping. Has unit tests coverage.</p>
       <p>Role: TeamLead.</p>
       <p>Stack: TypeScript, Webpack, SCSS, ESLint, Prettier, Husky, Jest Tests.</p>
-      <p>Contribution: team coordination, project settings and functionality defining, styles and adaptive design.</p>
-      <p>Deploy: <a href="https://motodream.netlify.app/" target="_blank" rel="noreferrer">link</a> <i>(using only for a demonstrator — back is unavailable, ends trial period)</i>.</p>
+      <p>Contribution: team coordination, commercetools project settings and functionality defining, styles and adaptive design.</p>
+      <p>Deploy: <a href="https://motodream-shop.netlify.app/" target="_blank" rel="noreferrer">link</a> <i>(using only for a demonstrator — back is unavailable, ends trial period)</i>.</p>
       <p>Repository: <a href="https://github.com/GoodValts/eCommerce-Application" target="_blank" rel="noreferrer">link</a>.</p>
     </td>
   </tr>
