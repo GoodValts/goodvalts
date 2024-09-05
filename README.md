@@ -98,8 +98,8 @@
       <p>Role: TeamLead.</p>
       <p>Stack: React, Redux, TypeScript, Vite, SCSS, ESLint, Prettier, Husky, RestAPI.</p>
       <p>Contribution: team coordination, project settings, styles and adaptive design, forms validation, multilingualism.</p>
-      <p>Deploy: <a href="https://goodvalts.github.io/graphiql-app/#/" target="_blank" rel="noreferrer">link</a>.</p>
-      <p>Repository: <a href="https://github.com/GoodValts/graphiql-app/tree/develop" target="_blank" rel="noreferrer">link</a>.</p>
+      <p>Deploy: <a href="https://goodvalts.github.io/graphql-app/#/" target="_blank" rel="noreferrer">link</a>.</p>
+      <p>Repository: <a href="https://github.com/GoodValts/graphql-app/tree/develop" target="_blank" rel="noreferrer">link</a>.</p>
     </td>
   </tr>
   <tr>
