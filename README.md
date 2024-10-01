@@ -95,8 +95,8 @@
     <td><img alt="graphQL-screen" src="assets/graphQL.png" /></td>
     <td>
       <h3 align="center">Phoenix GraphQL</h3>
-      <p align="center"><b>IDE for GraphQL requests</b></p>
-      <p>Collaborated with <a href="https://github.com/AnastasiyaAlisenok" target="_blank" rel="noreferrer"><i><b>AnastasiyaAlisenok</b></i></a> and <a href="https://github.com/whiterabbit8" target="_blank" rel="noreferrer"><i><b>whiterabbit8</b></i></a>.<br>SPA, suppotring any APIs without CORS-policy. Adaptive to 320px semantic layout, Firebase registration, React forms, yup validation, API's errors handling, request-code prettifying, En and Ru languages, test coverage over 80%.</p>
+      <p align="center"><b>Playground for GraphQL requests</b></p>
+      <p>Collaborated with <a href="https://github.com/AnastasiyaAlisenok" target="_blank" rel="noreferrer"><i><b>AnastasiyaAlisenok</b></i></a> and <a href="https://github.com/whiterabbit8" target="_blank" rel="noreferrer"><i><b>whiterabbit8</b></i></a>.<br>SPA that allows you to send graphQL requests to APIs. Adaptive to 320px semantic layout, Firebase registration, React forms, yup validation, API's errors handling, request-code prettifying, En and Ru languages, test coverage over 80%.</p>
       <p>Role: TeamLead.</p>
       <p>Stack: React, Redux, TypeScript, Vite, SCSS, ESLint, Prettier, Husky, RestAPI.</p>
       <p>Contribution: team coordination, project settings, styles and adaptive design, forms validation, multilingualism.</p>
