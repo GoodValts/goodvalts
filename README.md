@@ -15,9 +15,9 @@
 
 🤝 Team player and team leader
 
-🌱 Currently learning Node.js
+🌱 Currently learning shadcn/ui
 
-🚀 Working on a pet project with React Native (Expo)
+🚀 Working ~~on a pet project with React Native (Expo)~~
 
 🌎 Speak English, Russian, Belarusian
 
