@@ -17,8 +17,6 @@
 
 🌱 Currently learning shadcn/ui
 
-🚀 Working ~~on a pet project with React Native (Expo)~~
-
 🌎 Speak English, Russian, Belarusian
 
 🙃 Fun fact: rescued the rescuers on winter Elbrus when they decided to rescue me
