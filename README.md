@@ -15,7 +15,7 @@
 
 🤝 Team player and team leader
 
-🌱 Currently learning shadcn/ui
+🌱 Currently learning EndeavourOS
 
 🌎 Speak English, Russian, Belarusian
 
