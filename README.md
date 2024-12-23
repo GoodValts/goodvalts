@@ -11,7 +11,7 @@
 
 <img align="right" src="https://www.codewars.com/users/GoodValts/badges/small" alt="codewars-stats" >
 
-👨‍🔬 2+ year in frontend
+👨‍🔬 2+ years in frontend
 
 🤝 Team player and team leader
 
