@@ -43,6 +43,7 @@
   <img alt="graphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="trpc" src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" />
   <img alt="drizzle" src="https://img.shields.io/badge/DrizzleORM-E10098?style=flat-square&logo=drizzle&logoColor=white" />
+  <img alt="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </div>
 <div>
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -61,7 +62,6 @@
   <img alt="sklearn" src="https://img.shields.io/badge/Skikit%20learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img alt="numpy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="sql" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </div>
 <div>
   <img alt="ps" src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
