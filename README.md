@@ -51,6 +51,7 @@
 <div>
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="pnpm" src="https://img.shields.io/badge/PNPM-F69220?style=flat-square&logo=pnpm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="babel" src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white" />
   <img alt="webpack" src="https://img.shields.io/badge/WebPack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
