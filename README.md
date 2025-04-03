@@ -90,7 +90,7 @@
     <td>
       <h3 align="center">JP Vision</h3>
       <p align="center"><b>Platform for monitoring advertising campaigns</b></p>
-      <p>The platform features both an administrative and a user interface.<br/>The user interface provides a dashboard with different tables with basic ad metrics, summary and statistic information in diagrams and charts, interactive media plan, chat and a final report (also available for download).<br/>The administrator interface allows creating ad campaigns and editing its settings, creating/editing creatives and publications, viewing logs. It also includes a campaign CRM for efficient campaign management.</p>
+      <p>The platform features both admin and user interface.<br/>The user interface provides a dashboard with different tables with basic metrics, summary and statistic information in diagrams and charts, interactive media plan, chat and a final report (also available for download).<br/>The administrator interface allows create campaigns and edit its settings, create/edit creatives and publications, view logs. It also includes a campaign CRM for efficient campaign management.</p>
       <p>Role: Frontend developer.</p>
       <p>Stack: TypeScript, NextJS, TailwindCSS, shadcn/ui, tRPC and TanStack Query, nix, Docker, PostgreSQL, ClickHouse, SonarQube, Graphite Reviewer.</p>
       <p>Contribution: single-handedly frontend development, including project settings, cross-browser adaptive layout, core application functionality, routing, authentication, backend integration. Implemented from conception to production launch.</p>
