@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi there, I'm Ivan Martynujk <img src="assets/lizzard_hello.webp" alt='hello' width="45" /></h1>
 <h3 align="center">Frontend developer</h3>
 <div align="center">
@@ -44,6 +45,8 @@
   <img alt="trpc" src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" />
   <img alt="drizzle" src="https://img.shields.io/badge/DrizzleORM-E10098?style=flat-square&logo=drizzle&logoColor=white" />
   <img alt="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="clickhouse" src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=white" />
+  <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </div>
 <div>
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
