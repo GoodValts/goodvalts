@@ -15,7 +15,7 @@
 
 🤝 Team player and team leader
 
-🌱 Currently learning EndeavourOS
+🌱 Currently learning Drizzle ORM
 
 🌎 Speak English, Russian, Belarusian
 
