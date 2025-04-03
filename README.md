@@ -35,8 +35,12 @@
   <img alt="rtk" src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
   <img alt="nextJS" src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="trpc" src="https://img.shields.io/badge/tRPC-#2596BE?style=flat-square&logo=trpc&logoColor=white" />
+  <img alt="tailwind" src="https://img.shields.io/badge/TailwindCSS-#06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="shadcn" src="https://img.shields.io/badge/ShadcnUI-#000000?style=flat-square&logo=shadcnui&logoColor=white" />
   <img alt="nodeJS" src="https://img.shields.io/badge/NodeJS-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="graphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="drizzle" src="https://img.shields.io/badge/DrizzleORM-#C5F74F?style=flat-square&logo=drizzle&logoColor=white" />
 </div>
 <div>
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
