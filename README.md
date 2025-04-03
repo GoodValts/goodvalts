@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Ivan Martynujk <img src="assets/lizzard_hello.webp" alt='hello' width="45" /></h1>
 <h3 align="center">Frontend developer</h3>
 <div align="center">
@@ -86,6 +85,19 @@
 <h3 align="center">Projects:</h3>
 
 <table>
+  <tr>
+    <td><img alt="jpvision" src="assets/jpvision.png" /></td>
+    <td>
+      <h3 align="center">JP Vision</h3>
+      <p align="center"><b>Platform for monitoring advertising campaigns</b></p>
+      <p>The platform features both an administrative and a user interface.<br/>The user interface provides a dashboard with: summary table, key campaign information and diagrams, table detailing each publication and its metrics inc. filters and sorting, statistical charts, interactive media plan, favorite posts, creatives with commenting capabilities, and a final report, also available for download in .pdf and .doc formats.<br/>The administrator interface allows for the advertising campaigns creation and editing its settings, creating/editing creatives and publications, viewing logs. It also includes a campaign CRM for efficient campaign management.<br/>Authentication process requires a username and password, email address verification (upon account creation), and access to campaigns granted by an administrator.</p>
+      <p>Role: Frontend developer.</p>
+      <p>Stack: TypeScript, NextJS, TailwindCSS, shadcn/ui, tRPC and TanStack Query, nix, Docker, PostgreSQL, ClickHouse, SonarQube, Graphite Reviewer.</p>
+      <p>Contribution: single-handedly frontend development, including project settings, cross-browser adaptive layout, core application functionality, routing, authentication, backend integration. Implemented from conception to production launch.</p>
+      <p>Deploy: <a href="https://jpvision.ru/" target="_blank" rel="noreferrer">link</a>.</p>
+      <p>Repository: private (NDA).</p>
+    </td>
+  </tr>
   <tr>
     <td><img alt="match3-screen" src="assets/match3.png" /></td>
     <td>
