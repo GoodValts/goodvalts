@@ -15,9 +15,9 @@
 
 🤝 Team player and team leader
 
-📚 Menthor at the [RS School](https://rs.school/)
+🌱 Menthor at the [RS School](https://rs.school/)
 
-🌱 Currently learning Drizzle ORM
+📚 Currently learning Drizzle ORM
 
 🌎 Speak English, Russian, Belarusian
 
