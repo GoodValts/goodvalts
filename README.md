@@ -131,7 +131,7 @@
     <td>
       <h3 align="center">MotoDream</h3>
       <p align="center"><b>Online shop integrated with CommerceTools API</b></p>
-      <p>Project on vanilla TS, collaborated with <a href="https://github.com/kotsiaryna" target="_blank" rel="noreferrer"><i><b>kotsiaryna</b></i></a> and <a href="https://github.com/Greys73" target="_blank" rel="noreferrer"><i><b>Greys73</b></i></a>.<br>E-commerce SPA, online shope based on CommerceTools API data. Adaptive to 390px semantic layout, browser routing, autorization/registration/profile pages, catalog, cart, supporting promocodes and dynamic price calculation for different countries — all, that you need for e-shopping. Has unit tests coverage.</p>
+      <p>Project on vanilla TS, collaborated with <a href="https://github.com/kotsiaryna" target="_blank" rel="noreferrer"><i><b>kotsiaryna</b></i></a> and <a href="https://github.com/Greys73" target="_blank" rel="noreferrer"><i><b>Greys73</b></i></a>.<br>E-commerce SPA, based on CommerceTools SDK. Adaptive to 390px semantic layout, browser routing, autorization/registration/profile pages, catalog, cart, supporting promocodes and dynamic price calculation for different countries — all, that you need for e-shopping. Has unit tests coverage.</p>
       <p>Role: TeamLead.</p>
       <p>Stack: TypeScript, Webpack, SCSS, ESLint, Prettier, Husky, Jest Tests.</p>
       <p>Contribution: team coordination, commercetools project settings and functionality defining, styles and adaptive design.</p>
