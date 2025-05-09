@@ -70,10 +70,7 @@
 </div>
 <div>
   <img alt="ps" src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  <img alt="lr" src="https://img.shields.io/badge/Lightroom-2D3246?style=flat-square&logoSize=amd&logo=adobelightroom&logoColor=white" />
   <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logoSize=amd&logo=figma&logoColor=white" />
-  <img alt="corel" src="https://img.shields.io/badge/CorelDRAW-000000?style=flat-square&logo=coreldraw&logoColor=white" />
-  <img alt="autocad" src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autocad&logoColor=white" />
 </div>
 
 <hr>
