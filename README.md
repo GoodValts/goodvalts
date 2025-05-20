@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ivan Martynujk <img src="assets/lizzard_hello.webp" alt='hello' width="45" /></h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Fullstack developer</h3>
 <div align="center">
   <a href="https://t.me/szczuczynszczyna" target="_blank" rel="noreferrer"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/goodvalts/" target="_blank" rel="noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
