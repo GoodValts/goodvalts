@@ -85,7 +85,7 @@
 
 <table>
   <tr>
-    <td><video src='assets/jp-vision.mp4' width=180/></td>
+    <td><img alt="jpvision" src="assets/jp-vision.gif" /></td>
     <td>
       <h3 align="center">JP Vision</h3>
       <p align="center"><b>Platform for monitoring advertising campaigns</b></p>
