@@ -17,7 +17,7 @@
 
 🌱 Menthor at the [RS School](https://rs.school/)
 
-📚 Currently learning Drizzle ORM
+📚 Currently learning ClickHouse
 
 🌎 Speak English, Russian, Belarusian
 
