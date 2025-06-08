@@ -91,7 +91,7 @@
       <p align="center"><b>Platform for monitoring advertising campaigns</b></p>
       <p>The platform features both admin and user interface.<br/>The user interface provides a dashboard with different tables with basic metrics, summary and statistic information in diagrams and charts, interactive media plan, chat and a final report (also available for download .pdf or .docx).<br/>The administrator interface allows create campaigns and edit its settings, create/edit creatives and publications, view logs. It also includes a campaign CRM for efficient campaign management.</p>
       <p>Role: Fullstack developer.</p>
-      <p>Stack: TypeScript, Next.js, Tailwind, shadcn/ui, tRPC, TanStack Query, Zod, react-pdf, docx, fish shell, Docker, PostgreSQL, ClickHouse, Drizzle ORM, Bcrypt, Vercel blob, ESLint, Prettier, SonarQube, Graphite Reviewer.</p>
+      <p>Stack: TypeScript, Next.js, Tailwind, shadcn/ui, tRPC, TanStack Query, Zod, React Hook Form, date-fns, react-pdf, docx, fish shell, Docker, PostgreSQL, ClickHouse, Drizzle ORM, Bcrypt, Vercel blob, ESLint, Prettier, SonarQube, Graphite Reviewer.</p>
       <p>Contribution: single-handedly frontend development, including project settings, cross-browser adaptive layout, core application functionality, routing, authentication, integration with backend, creation backend table schemas, tables, routers and methods, vercel blob sdk using adn etc. Implemented from conception to production launch.</p>
       <p>Deploy: <a href="https://jpvision.ru/" target="_blank" rel="noreferrer">link</a>.</p>
       <p>Repository: private (NDA).</p>
