@@ -15,7 +15,7 @@
 
 🤝 Team player and team leader
 
-🌱 Menthor at the [RS School](https://rs.school/)
+🌱 Mentor at the [RS School](https://rs.school/)
 
 📚 Currently learning ClickHouse
 
