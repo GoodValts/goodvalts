@@ -62,12 +62,12 @@
   <img alt="jest" src="https://img.shields.io/badge/Jest%20Tests-C21325?style=flat-square&logo=jest&logoColor=white" />
   <img alt="testingLib" src="https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" /> 
 </div>
-<div>
+<!-- <div>
   <img alt="python" src="https://img.shields.io/badge/PYTHON3-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="sklearn" src="https://img.shields.io/badge/Skikit%20learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img alt="numpy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-</div>
+</div> -->
 <div>
   <img alt="ps" src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
   <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logoSize=amd&logo=figma&logoColor=white" />
@@ -92,7 +92,7 @@
       <p>The platform features both admin and user interface.<br/>The user interface provides a dashboard with different tables with basic metrics, summary and statistic information in diagrams and charts, interactive media plan, chat and a final report (also available for download .pdf or .docx).<br/>The administrator interface allows create campaigns and edit its settings, create/edit creatives and publications, view logs. It also includes a campaign CRM for efficient campaign management.</p>
       <p>Role: Fullstack developer.</p>
       <p>Stack: TypeScript, Next.js, Tailwind, shadcn/ui, tRPC, TanStack Query, Zod, React Hook Form, date-fns, react-pdf, docx, nix, fish shell, Docker, PostgreSQL, ClickHouse, Drizzle ORM, Bcrypt, Vercel blob, ESLint, Prettier, SonarQube, Graphite Reviewer.</p>
-      <p>Contribution: single-handedly frontend development, including project settings, cross-browser adaptive layout, core application functionality, routing, authentication, integration with backend, creation backend table schemas, tables, routers and methods, vercel blob sdk using and etc. Implemented from conception to production launch.</p>
+      <p>Contribution: single-handedly frontend development, including project settings, cross-browser adaptive layout, core application functionality, routing, authentication, integration with backend. Also responsible for over 60% of backend development, including creation backend table schemas, tables, routers and methods, vercel blob sdk using and etc. Implemented from conception to production launch.</p>
       <p>Deploy: <a href="https://jpvision.ru/" target="_blank" rel="noreferrer">link</a>.</p>
       <p>Repository: private (NDA).</p>
     </td>
