@@ -91,11 +91,25 @@
       <p align="center"><b>Platform for monitoring advertising campaigns</b></p>
       <p>The platform features both admin and user interface.<br/>The user interface provides a dashboard with different tables with basic metrics, summary and statistic information in diagrams and charts, interactive media plan, chat and a final report (also available for download .pdf or .docx).<br/>The administrator interface allows create campaigns and edit its settings, create/edit creatives and publications, view logs. It also includes a campaign CRM for efficient campaign management.</p>
       <p>Role: Fullstack developer.</p>
-      <p>Stack: TypeScript, Next.js, Tailwind, shadcn/ui, tRPC, TanStack Query, Zod, React Hook Form, date-fns, react-pdf, docx, fish shell, Docker, PostgreSQL, ClickHouse, Drizzle ORM, Bcrypt, Vercel blob, ESLint, Prettier, SonarQube, Graphite Reviewer.</p>
+      <p>Stack: TypeScript, Next.js, Tailwind, shadcn/ui, tRPC, TanStack Query, Zod, React Hook Form, date-fns, react-pdf, docx, nix, fish shell, Docker, PostgreSQL, ClickHouse, Drizzle ORM, Bcrypt, Vercel blob, ESLint, Prettier, SonarQube, Graphite Reviewer.</p>
       <p>Contribution: single-handedly frontend development, including project settings, cross-browser adaptive layout, core application functionality, routing, authentication, integration with backend, creation backend table schemas, tables, routers and methods, vercel blob sdk using and etc. Implemented from conception to production launch.</p>
       <p>Deploy: <a href="https://jpvision.ru/" target="_blank" rel="noreferrer">link</a>.</p>
       <p>Repository: private (NDA).</p>
     </td>
+  </tr>
+   <tr>
+    <td><img alt="tgscope" src="assets/tg-scope.webp" /></td>
+    <td>
+      <h3 align="center">TG Scope</h3>
+      <p align="center"><b>Telegram analytics service</b></p>
+      <p>The service provides users with access to data for analyzing and monitoring Telegram channels.<br/>Users are offered a selection of channels based on categories, popularity, young and promising channels with brief information about each channel. There is also a convenient filter that offers both basic parameter control and an advanced mode for more granular filtering.<br/>On the channel’s information page, users can access channel details (including channel quality index - a numerical parameter resulting from analysis based on 8 key parameters), charts of views, subscriber growth, engagement rates, etc., a list of recent posts, and diagrams with information about publications in the channel by time, as well as an estimation of the channel’s value and its market price.</p>
+      <p>Role: Frontend developer.</p>
+      <p>Stack: TypeScript, Next.js, Tailwind, shadcn/ui, tRPC, TanStack Query, Zod, React Hook Form, date-fns, nix, fish shell, bun, Docker, PostgreSQL, ClickHouse, Drizzle ORM, ESLint, Prettier, SonarQube, Graphite Reviewer.</p>
+      <p>Contribution: complete UI/UX redesign of the entire application, animations, advanced data visualization using charts and diagrams, publications heatmap implementation.</p>
+      <p>Deploy: <a href="https://tgscope.ru/" target="_blank" rel="noreferrer">link</a>.</p>
+      <p>Repository: private (NDA).</p>
+    </td>
+
   </tr>
   <tr>
     <td><img alt="match3-screen" src="assets/match3.png" /></td>
