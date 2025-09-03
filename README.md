@@ -17,7 +17,7 @@
 
 🌱 Mentor at the [RS School](https://rs.school/)
 
-📚 Currently learning ClickHouse
+📚 Currently learning CI/CD
 
 🌎 Speak English, Russian, Belarusian
 
