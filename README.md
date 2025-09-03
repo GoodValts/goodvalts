@@ -131,7 +131,7 @@
       <p align="center"><b>Playground for GraphQL requests</b></p>
       <p>Collaborated with <a href="https://github.com/AnastasiyaAlisenok" target="_blank" rel="noreferrer"><i><b>AnastasiyaAlisenok</b></i></a> and <a href="https://github.com/whiterabbit8" target="_blank" rel="noreferrer"><i><b>whiterabbit8</b></i></a>.<br>SPA that allows you to send graphQL requests to APIs. Adaptive to 320px semantic layout, Firebase registration, React forms, yup validation, API's errors handling, request-code prettifying, En and Ru languages, test coverage over 80%.</p>
       <p>Role: TeamLead.</p>
-      <p>Stack: React, Redux, TypeScript, Vite, SCSS, ESLint, Prettier, Husky, RestAPI.</p>
+      <p>Stack: React, Redux, TypeScript, Vite, SCSS, ESLint, Prettier, Husky, RestAPI, React Testing Library, Jest Tests.</p>
       <p>Contribution: team coordination, project settings, styles and adaptive design, forms validation, multilingualism.</p>
       <p>Deploy: <a href="https://goodvalts.github.io/graphql-app/#/" target="_blank" rel="noreferrer">link</a>.</p>
       <p>Repository: <a href="https://github.com/GoodValts/graphql-app/tree/develop" target="_blank" rel="noreferrer">link</a>.</p>
