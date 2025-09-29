@@ -17,7 +17,7 @@
 
 🌱 Mentor at the [RS School](https://rs.school/)
 
-📚 Currently learning CI/CD
+📚 Currently learning DevOps
 
 🌎 Speak English, Russian, Belarusian
 
