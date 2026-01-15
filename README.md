@@ -17,7 +17,7 @@
 
 🌱 Mentor at the [RS School](https://rs.school/)
 
-📚 Currently learning SQL
+📚 Currently learning Nest.js
 
 🌎 Speak English, Russian, Belarusian
 
